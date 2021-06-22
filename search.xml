@@ -4,16 +4,16 @@
     <title>部署日记</title>
     <url>/2021/05/17/hello-world/</url>
     <content><![CDATA[<p>欢迎来到 <a href="https://mofei.wang/">Mofei Wang</a>的小站! 这是我的第一篇文章. </p>
-<h2 id="简要说明"><a href="#简要说明" class="headerlink" title="简要说明"></a>简要说明</h2><h3 id="创建新文章"><a href="#创建新文章" class="headerlink" title="创建新文章"></a>创建新文章</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<h2 id="简要说明"><a href="#简要说明" class="headerlink" title="简要说明"></a>简要说明</h2><h3 id="创建新文章"><a href="#创建新文章" class="headerlink" title="创建新文章"></a>创建新文章</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo new &quot;My New Post&quot;</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<h3 id="运行服务器"><a href="#运行服务器" class="headerlink" title="运行服务器"></a>运行服务器</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="生成动态文件"><a href="#生成动态文件" class="headerlink" title="生成动态文件"></a>生成动态文件</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<h3 id="生成页面"><a href="#生成页面" class="headerlink" title="生成页面"></a>生成页面</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
 
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="部署网站"><a href="#部署网站" class="headerlink" title="部署网站"></a>部署网站</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-]]></content>
+<h3 id="部署网站"><a href="#部署网站" class="headerlink" title="部署网站"></a>部署网站</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<h3 id="一键三连"><a href="#一键三连" class="headerlink" title="一键三连"></a>一键三连</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">$hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>]]></content>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
   </entry>
 </search>
