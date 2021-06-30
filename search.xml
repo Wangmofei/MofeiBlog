@@ -19,7 +19,7 @@
 <p>然后脚本就会自动爬取最新的 IP 与域名到你的 hosts 文件中了。</p>
 ]]></content>
       <categories>
-        <category>音乐の世界</category>
+        <category>感悟の世界</category>
       </categories>
   </entry>
   <entry>
@@ -33,9 +33,14 @@
 <h3 id="生成页面"><a href="#生成页面" class="headerlink" title="生成页面"></a>生成页面</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure>
 
 <h3 id="部署网站"><a href="#部署网站" class="headerlink" title="部署网站"></a>部署网站</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure>
-<h3 id="一键三连"><a href="#一键三连" class="headerlink" title="一键三连"></a>一键三连</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>]]></content>
+<h3 id="一键三连"><a href="#一键三连" class="headerlink" title="一键三连"></a>一键三连</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean &amp;&amp; hexo g &amp;&amp; hexo s</span><br></pre></td></tr></table></figure>
+<h3 id="回滚"><a href="#回滚" class="headerlink" title="回滚"></a>回滚</h3><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">回退到上个版本</span><br><span class="line">git reset --hard HEAD^</span><br><span class="line">回退到三次前版本</span><br><span class="line">git reset --hard HEAD~3</span><br><span class="line">回退到指定commitID版本</span><br><span class="line">git reset --hard commit_id</span><br></pre></td></tr></table></figure>
+
+
+
+]]></content>
       <categories>
-        <category>学习の世界</category>
+        <category>音乐の世界</category>
       </categories>
       <tags>
         <tag>Hexo</tag>
@@ -135,7 +140,7 @@
 </div><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="test4-3"><p><strong>名字+icon</strong></p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>
 ]]></content>
       <categories>
-        <category>感悟の世界</category>
+        <category>学习の世界</category>
       </categories>
   </entry>
 </search>
